@@ -1,6 +1,5 @@
 # Cafetería EAFIT – Web App  
-Aplicación web diseñada para visualizar el menú de la cafetería de la Universidad EAFIT de forma **rápida, moderna y accesible**.  
-Construida con **Next.js 14**, **TypeScript**, y diseño modular basado en componentes.
+Aplicación web diseñada para visualizar el menú de la cafetería de la Universidad EAFIT de forma **rápida, moderna y accesible**; realizada como requisito del proyecto final del curso de Estructuras de Datos y Algoritmos por Wilmer Alberto Gil Moreno; y construida con **Next.js 14**, **TypeScript**, y diseño modular basado en componentes.
 
 ---
 
@@ -87,14 +86,22 @@ http://localhost:3000
 
 La aplicación está desplegada usando **Vercel**.
 Cada push a **main** genera automáticamente un nuevo deploy.
+
 ---
 
-## Autores:
+## Autores
 Proyecto desarrollado por:
 - Samuel Rendón Pabón
 - Juan Diego Albanaez
 - Miguel Ángel Marín Mejía
 - Jerónimo Contreras Sierra
 - Emmanuel Castaño Sepúlveda
+  
 --- 
+
+## Licencia
+*Este proyecto es únicamente con fines educativos.*
+
+---
+
 
