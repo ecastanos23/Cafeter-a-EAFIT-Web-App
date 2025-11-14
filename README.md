@@ -4,7 +4,7 @@ Aplicación web diseñada para visualizar el menú de la cafetería de la Univer
 ---
 
 ## Demo en producción  
- **https://cafeteria-eafit.vercel.app/**
+ **https://v0-cafeteria-order-system-2.vercel.app/**
 
 ---
 
