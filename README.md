@@ -15,7 +15,7 @@ Construida con **Next.js 14**, **TypeScript**, y diseño modular basado en compo
 -  **Diseño responsive** para uso en móviles y escritorio
 -  **Renderizado con App Router (Next.js 14)**
 -  Visualización del menú de la cafetería  
--  **Estilos modernos** usando TailwindCSS (si aplica)  
+-  **Estilos modernos** 
 -  Arquitectura modular con **componentes reutilizables**
 -  Optimizado para despliegue en Vercel
 
