@@ -56,7 +56,11 @@ Construida con **Next.js 14**, **TypeScript**, y diseño modular basado en compo
 ```bash
 git clone https://github.com/ecastanos23/Cafeter-a-EAFIT-Web-App.git
 ```
-### **2. Instalar dependencias**
+### **2. Entrar al proyecto**
+```bash
+cd Cafeter-a-EAFIT-Web-App
+```
+### **3. Instalar dependencias**
 Si usas npm:
 ```bash
 npm install
@@ -65,7 +69,7 @@ Si usas pnpm:
 ```bash
 pnpm install
 ```
-### **3. Ejecutar en modo desarrollo**
+### **4. Ejecutar en modo desarrollo**
 Si usas npm:
 ```bash
 npm run dev
