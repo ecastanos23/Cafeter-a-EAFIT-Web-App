@@ -54,11 +54,11 @@ Construida con **Next.js 14**, **TypeScript**, y diseño modular basado en compo
 
 ### **1. Clonar el repositorio**
 ```bash
-git clone https://github.com/ecastanos23/Cafeter-a-EAFIT-Web-App.git
+git clone https://github.com/ecastanos23/Cafeteria-EAFIT-Web-App.git
 ```
 ### **2. Entrar al proyecto**
 ```bash
-cd Cafeter-a-EAFIT-Web-App
+cd Cafeteria-EAFIT-Web-App
 ```
 ### **3. Instalar dependencias**
 Si usas npm:
@@ -82,4 +82,19 @@ Luego abre:
 ```bash
 http://localhost:3000
 ```
+---
+## Despliegue (Deploy)
+
+La aplicación está desplegada usando **Vercel**.
+Cada push a **main** genera automáticamente un nuevo deploy.
+---
+
+## Autores:
+Proyecto desarrollado por:
+- Samuel Rendón Pabón
+- Juan Diego Albanaez
+- Miguel Ángel Marín Mejía
+- Jerónimo Contreras Sierra
+- Emmanuel Castaño Sepúlveda
+--- 
 
